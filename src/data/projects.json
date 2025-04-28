@@ -1,0 +1,35 @@
+[
+    {
+      "title": "Buddy.co",
+      "description": "A platform that helps international students find local roommates and social connections.",
+      "category": "UX/UI & Fullstack",
+      "image": "/assets/images/buddyco.png",
+      "github": "https://github.com/buddyco-app",
+      "link": "#"
+    },
+    {
+      "title": "Nemo Language App",
+      "description": "A Duolingo-like mobile app for fun and effective language learning.",
+      "category": "UX/UI Design",
+      "image": "/assets/images/nemo.png",
+      "github": null,
+      "link": "#"
+    },
+    {
+      "title": "Olympic Dataset Web App",
+      "description": "A data visualization and filtering app built with Flask, SQL and Python.",
+      "category": "Data Analysis",
+      "image": "/assets/images/olympic.png",
+      "github": "https://github.com/mxaltundal/Olympic_History_Web_App",
+      "link": null
+    },
+    {
+      "title": "Just Together",
+      "description": "A digital coordination and web presence project for disaster response support.",
+      "category": "Project Management",
+      "image": "/assets/images/justtogether.png",
+      "github": null,
+      "link": "https://justogether.com/"
+    }
+  ]
+  
